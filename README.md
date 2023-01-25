@@ -20,4 +20,4 @@ In addition to the tutorial itself, we also provide you with a presentation taki
 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" width="200px"/></a>
 
 **Note:**
-This project was created in the context of the course Deep Learning at the Hertie School, Berlin.
+This project was created in the context of the course Deep Learning at the Hertie School, Berlin. This repository was worked on in a github classroom environment and therefore had to be re-located into my personal github, therefore the commit-history was lost.
